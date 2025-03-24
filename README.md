@@ -1,9 +1,9 @@
 # AdventureWork_Sales_Analysis
 <img src="Images/bike logo.jpg" width="2000" height="500"/>&nbsp;
+This is an exciting project I had prepared to push my limits in Power BI. 
 
-## Overview
-
-This Power BI dashboard provides comprehensive insights into the sales performance of a bicycle business. It visualizes data related to revenue, profit, orders, and return rates, enabling data-driven decisions. The dashboard includes interactive visuals and filters for enhanced user experience.
+## Project Overview
+This project features an interactive Power BI dashboard analyzing sales data for AdventureWorks, a global retail company. The dashboard provides insights into revenue, profit, orders, returns, customer demographics, and product performance. It demonstrates my ability to create dynamic visualizations and extract actionable insights to support business decisions.
 
 ## Tool used :
 <img src="Images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
@@ -72,13 +72,10 @@ The Revenue Trend shows consistent growth, with notable peaks around Jan 2022 an
 
 The Revenue Forecast Insight provides a useful comparison of actual revenue against expected values to identify trends and anomalies.
 
-## Future Enhancements
+## Key Learnings
+How to structure a business intelligence report for effective decision-making.
+Techniques to highlight performance gaps and opportunities using data storytelling.
 
-Add drill-through features for deeper analysis.
-
-Introduce additional KPIs such as Customer Lifetime Value (CLV).
-
-Improve visual design with enhanced themes.
 
 ## Dashboard :
 <img src="Images/Dash-1.jpg" width="2500" height="600"/>&nbsp;
