@@ -1,12 +1,12 @@
 # Bicycle_Sales_Dashboard
-<img src="images/mountain-bike.jpg" width="2000" height="500"/>&nbsp;
+<img src="Images/bike logo.jpg" width="2000" height="500"/>&nbsp;
 
 ## Overview
 
 This Power BI dashboard provides comprehensive insights into the sales performance of a bicycle business. It visualizes data related to revenue, profit, orders, and return rates, enabling data-driven decisions. The dashboard includes interactive visuals and filters for enhanced user experience.
 
 ## Tool used :
-<img src="images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
+<img src="Images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp;
 
 ## Key Metrics
 
@@ -81,4 +81,6 @@ Introduce additional KPIs such as Customer Lifetime Value (CLV).
 Improve visual design with enhanced themes.
 
 ## Dashboard :
-<img src="images/Dashboard.PNG" width="2500" height="600"/>&nbsp;
+<img src="Images/Dash-1.jpg" width="2500" height="600"/>&nbsp;
+<img src="Images/Dash-2.jpg" width="2500" height="600"/>&nbsp;
+
