@@ -1,4 +1,4 @@
-# Bicycle_Sales_Dashboard
+# AdventureWork_Sales_Analysis
 <img src="Images/bike logo.jpg" width="2000" height="500"/>&nbsp;
 
 ## Overview
