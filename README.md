@@ -1,5 +1,5 @@
 # Bicycle_Sales_Dashboard
-<img src="C:\Users\Lenovo\Downloads\Bicycle-Sales-Dashboard\Bicycle-Sales-Dashboard-main\images" width="2000" height="500"/>&nbsp;
+<img src="images/mountain-bike.jpg" width="2000" height="500"/>&nbsp;
 
 ## Overview
 
