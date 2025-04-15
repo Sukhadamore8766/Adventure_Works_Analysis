@@ -1,4 +1,4 @@
-# AdventureWork_Sales_Analysis
+# Adventure_Work_Sales_Analysis
 <img src="Images/bike logo.jpg" width="2000" height="500"/>&nbsp;
 This is an exciting project I had prepared to push my limits in Power BI. 
 
