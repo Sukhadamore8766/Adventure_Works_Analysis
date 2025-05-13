@@ -79,5 +79,5 @@ Techniques to highlight performance gaps and opportunities using data storytelli
 
 ## Dashboard :
 <img src="Images/dash-1.png" width="2500" height="600"/>&nbsp;
-<img src="Images/dash-2.png" width="2500" height="600"/>&nbsp;
+<img src="Images/Dash-2.png" width="2500" height="600"/>&nbsp;
 
